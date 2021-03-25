@@ -28,16 +28,8 @@ Currently, I am a Software Engineering student at FPT University, Hanoi.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - Researcher at FPT University Laboratory 🧪  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
