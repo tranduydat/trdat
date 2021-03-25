@@ -22,14 +22,6 @@
 
 ### Glad to see you here!  
 Currently, I am a Software Engineering student at FPT University, Hanoi.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-- Researcher at FPT University Laboratory 🧪  
-
 
 <br/>  
 
